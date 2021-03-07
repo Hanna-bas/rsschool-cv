@@ -23,4 +23,6 @@ level of expertise in JS: beginner. Some experience with writing and executing l
 object-oriented programming» http://it-academy.by
 * JavaScript http://sololearn.com
 
+**<h2>Foreign languages</h2>**
+English: Intermediate
 
