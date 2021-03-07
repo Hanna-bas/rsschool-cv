@@ -14,4 +14,13 @@ I have a basic knowledge of HTML, CSS, Git, layout sites, but no practical skill
 **<h2>Skills</h2>**
 level of expertise in JS: beginner. Some experience with writing and executing little code. 
 
+**<h2>Courses</h2>**
+* JavaScript для начинающих http://stepik.org
+* Intro to JavaScript http://udacity.com
+* Introduction to javascript http://codecademy.com
+* HTML/CSS. Online training»   http://geekbrains.ru
+* «Databases. Basics» and «Basics of 
+object-oriented programming» http://it-academy.by
+* JavaScript http://sololearn.com
+
 
