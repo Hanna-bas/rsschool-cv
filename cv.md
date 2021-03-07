@@ -12,3 +12,6 @@ I have a basic knowledge of HTML, CSS, Git, layout sites, but no practical skill
 * Problem solving Team player Self-motivated 
 
 **<h2>Skills</h2>**
+level of expertise in JS: beginner. Some experience with writing and executing little code. 
+
+
